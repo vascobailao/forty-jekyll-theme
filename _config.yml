@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Vasco Fernandes
+subtitle: My personal portfolio
+email: vasco.bailao@gmail.com
+description: 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -21,7 +21,7 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
+gitlab_url: https://github.com/vascobailao
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
